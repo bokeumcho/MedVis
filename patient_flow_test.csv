@@ -1,0 +1,259 @@
+source,target,value
+Emergency Department,Medicine,25
+Emergency Department,Emergency Department Observation,24
+Cardiac Surgery,HOME HEALTH CARE,18
+Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Surgery,17
+Transplant,HOME,15
+Emergency Department,Med/Surg,14
+Emergency Department,Transplant,13
+Emergency Department,Medical Intensive Care Unit (MICU),13
+Surgical Intensive Care Unit (SICU),Neurology,13
+Emergency Department,Surgical Intensive Care Unit (SICU),13
+Medical Intensive Care Unit (MICU),Medicine,12
+Medicine,HOME,12
+Neurology,HOME HEALTH CARE,11
+Emergency Department,Medical/Surgical Intensive Care Unit (MICU/SICU),11
+Medical/Surgical Intensive Care Unit (MICU/SICU),Medicine,11
+Medicine,SKILLED NURSING FACILITY,10
+Discharge Lounge,Cardiac Vascular Intensive Care Unit (CVICU),10
+Med/Surg,HOME HEALTH CARE,9
+Emergency Department,Medicine/Cardiology,9
+Coronary Care Unit (CCU),Medicine/Cardiology,8
+Emergency Department,Hematology/Oncology,8
+Medicine/Cardiology,HOME,8
+Med/Surg,HOME,8
+Trauma SICU (TSICU),Med/Surg/Trauma,8
+Medicine,HOME HEALTH CARE,8
+Emergency Department,PACU,7
+PACU,Cardiac Vascular Intensive Care Unit (CVICU),7
+Emergency Department,Hematology/Oncology Intermediate,7
+Hematology/Oncology Intermediate,HOME HEALTH CARE,7
+Medicine/Cardiology,HOME HEALTH CARE,7
+Medical Intensive Care Unit (MICU),DIED,6
+Emergency Department,Coronary Care Unit (CCU),6
+PHYSICIAN REFERRAL,Discharge Lounge,6
+Surgical Intensive Care Unit (SICU),Transplant,6
+Emergency Department,Trauma SICU (TSICU),6
+TRANSFER FROM HOSPITAL,Medicine/Cardiology,6
+Medical/Surgical Intensive Care Unit (MICU/SICU),Med/Surg/GYN,5
+Discharge Lounge,Neurology,5
+Emergency Department,Med/Surg/Trauma,5
+Transplant,HOME HEALTH CARE,5
+TRANSFER FROM HOSPITAL,Medical Intensive Care Unit (MICU),5
+Discharge Lounge,Surgical Intensive Care Unit (SICU),5
+Vascular,SKILLED NURSING FACILITY,5
+Hematology/Oncology,HOME HEALTH CARE,5
+Emergency Department,Vascular,5
+Hematology/Oncology,HOME,5
+Med/Surg/GYN,HOME,4
+Medicine,CHRONIC/LONG TERM ACUTE CARE,4
+Medicine,Medical Intensive Care Unit (MICU),4
+Cardiac Surgery,SKILLED NURSING FACILITY,4
+TRANSFER FROM HOSPITAL,Medical/Surgical Intensive Care Unit (MICU/SICU),4
+TRANSFER FROM HOSPITAL,Cardiac Surgery,4
+PACU,Trauma SICU (TSICU),4
+Emergency Department,Cardiac Vascular Intensive Care Unit (CVICU),4
+Med/Surg/Trauma,REHAB,4
+Neurology,REHAB,4
+Emergency Department,Med/Surg/GYN,3
+Neurology,Discharge Lounge,3
+Psychiatry,HOME,3
+PACU,Medical/Surgical Intensive Care Unit (MICU/SICU),3
+TRANSFER FROM HOSPITAL,Medicine,3
+PROCEDURE SITE,Medicine/Cardiology,3
+Discharge Lounge,Medicine,3
+PHYSICIAN REFERRAL,Medicine/Cardiology,3
+PACU,Vascular,3
+Vascular,HOME,3
+Cardiac Surgery,PACU,3
+Medical/Surgical Intensive Care Unit (MICU/SICU),Hematology/Oncology Intermediate,3
+Vascular,HOME HEALTH CARE,3
+Medicine/Cardiology,Coronary Care Unit (CCU),3
+Med/Surg/Trauma,HOME,3
+Med/Surg/Trauma,SKILLED NURSING FACILITY,3
+Hematology/Oncology Intermediate,HOME,3
+Medicine/Cardiology,PACU,3
+TRANSFER FROM HOSPITAL,Med/Surg,3
+PHYSICIAN REFERRAL,Hematology/Oncology,3
+Transplant,HOSPICE,2
+Medicine,Surgical Intensive Care Unit (SICU),2
+Neurology,Surgical Intensive Care Unit (SICU),2
+Surgical Intensive Care Unit (SICU),Medical Intensive Care Unit (MICU),2
+Medical Intensive Care Unit (MICU),CHRONIC/LONG TERM ACUTE CARE,2
+Med/Surg/GYN,SKILLED NURSING FACILITY,2
+Med/Surg/GYN,Discharge Lounge,2
+TRANSFER FROM HOSPITAL,Coronary Care Unit (CCU),2
+Medicine/Cardiology,SKILLED NURSING FACILITY,2
+INTERNAL TRANSFER TO OR FROM PSYCH,Psychiatry,2
+Medicine,PSYCH FACILITY,2
+Trauma SICU (TSICU),Med/Surg,2
+Medicine,PACU,2
+Coronary Care Unit (CCU),Medical Intensive Care Unit (MICU),2
+Med/Surg/Trauma,HOME HEALTH CARE,2
+Discharge Lounge,PACU,2
+PACU,Transplant,2
+Medicine/Cardiology,Cardiac Vascular Intensive Care Unit (CVICU),2
+Discharge Lounge,Medicine/Cardiology,2
+Discharge Lounge,Med/Surg,2
+Cardiac Surgery,Cardiac Vascular Intensive Care Unit (CVICU),2
+Medical/Surgical Intensive Care Unit (MICU/SICU),DIED,2
+Transplant,SKILLED NURSING FACILITY,2
+Med/Surg,REHAB,2
+Medicine,Medical/Surgical Intensive Care Unit (MICU/SICU),2
+Transplant,Medical Intensive Care Unit (MICU),2
+Coronary Care Unit (CCU),DIED,2
+Medicine,Trauma SICU (TSICU),2
+Hematology/Oncology Intermediate,AGAINST ADVICE,2
+Medicine,Discharge Lounge,2
+Cardiac Vascular Intensive Care Unit (CVICU),Vascular,2
+Emergency Department,Cardiac Surgery,2
+Surgical Intensive Care Unit (SICU),Medicine,2
+Surgical Intensive Care Unit (SICU),Med/Surg,2
+Emergency Department,Neurology,2
+Neuro Stepdown,Neurology,2
+Neurology,SKILLED NURSING FACILITY,2
+PHYSICIAN REFERRAL,Hematology/Oncology Intermediate,2
+Medical/Surgical Intensive Care Unit (MICU/SICU),Hematology/Oncology,2
+Medical Intensive Care Unit (MICU),Hematology/Oncology,2
+Emergency Department,Neuro Surgical Intensive Care Unit (Neuro SICU),2
+Med/Surg,Medical Intensive Care Unit (MICU),2
+Transplant,Surgical Intensive Care Unit (SICU),2
+PACU,Neurology,2
+Neurology,HOME,2
+Coronary Care Unit (CCU),Med/Surg,2
+CLINIC REFERRAL,Hematology/Oncology,2
+Medical Intensive Care Unit (MICU),Transplant,1
+PHYSICIAN REFERRAL,Neurology,1
+PACU,Med/Surg/GYN,1
+Med/Surg/GYN,Medical/Surgical Intensive Care Unit (MICU/SICU),1
+Medicine,Emergency Department Observation,1
+Emergency Department Observation,Medical Intensive Care Unit (MICU),1
+PHYSICIAN REFERRAL,Psychiatry,1
+Discharge Lounge,Trauma SICU (TSICU),1
+TRANSFER FROM SKILLED NURSING FACILITY,Medicine,1
+Hematology/Oncology,SKILLED NURSING FACILITY,1
+Medicine,Coronary Care Unit (CCU),1
+Medicine,Cardiac Surgery,1
+PHYSICIAN REFERRAL,Med/Surg/Trauma,1
+Med/Surg/Trauma,Transplant,1
+PROCEDURE SITE,Discharge Lounge,1
+Cardiac Surgery,REHAB,1
+PHYSICIAN REFERRAL,Cardiology,1
+Medicine,Neurology,1
+PROCEDURE SITE,Cardiac Surgery,1
+Cardiac Surgery,Discharge Lounge,1
+Medical Intensive Care Unit (MICU),Medical/Surgical Intensive Care Unit (MICU/SICU),1
+Trauma SICU (TSICU),Medical/Surgical Intensive Care Unit (MICU/SICU),1
+Medical/Surgical Intensive Care Unit (MICU/SICU),Surgical Intensive Care Unit (SICU),1
+Med/Surg,PACU,1
+Cardiac Vascular Intensive Care Unit (CVICU),HOME,1
+Medical Intensive Care Unit (MICU),Discharge Lounge,1
+Discharge Lounge,Medical Intensive Care Unit (MICU),1
+Cardiac Vascular Intensive Care Unit (CVICU),PACU,1
+Cardiac Vascular Intensive Care Unit (CVICU),Medicine/Cardiology,1
+TRANSFER FROM HOSPITAL,Neurology,1
+PHYSICIAN REFERRAL,Med/Surg,1
+Medical/Surgical Intensive Care Unit (MICU/SICU),Med/Surg,1
+Med/Surg,CHRONIC/LONG TERM ACUTE CARE,1
+PHYSICIAN REFERRAL,Transplant,1
+Medical Intensive Care Unit (MICU),Med/Surg,1
+Med/Surg,Trauma SICU (TSICU),1
+Cardiac Vascular Intensive Care Unit (CVICU),Medicine,1
+PHYSICIAN REFERRAL,Medicine,1
+PHYSICIAN REFERRAL,Med/Surg/GYN,1
+Trauma SICU (TSICU),Vascular,1
+Medicine,Hematology/Oncology Intermediate,1
+CLINIC REFERRAL,Hematology/Oncology Intermediate,1
+Hematology/Oncology Intermediate,Medicine/Cardiology,1
+Medicine/Cardiology,Neuro Surgical Intensive Care Unit (Neuro SICU),1
+Neuro Surgical Intensive Care Unit (Neuro SICU),Coronary Care Unit (CCU),1
+Emergency Department,Cardiology Surgery Intermediate,1
+Cardiology Surgery Intermediate,Medicine/Cardiology,1
+Medicine/Cardiology,Cardiac Surgery,1
+Hematology/Oncology Intermediate,Medical/Surgical Intensive Care Unit (MICU/SICU),1
+Vascular,Cardiac Surgery,1
+PACU,Cardiac Surgery,1
+Cardiac Vascular Intensive Care Unit (CVICU),Medical/Surgical Intensive Care Unit (MICU/SICU),1
+Medical Intensive Care Unit (MICU),PACU,1
+Vascular,REHAB,1
+PACU,Surgery/Trauma,1
+Surgery/Trauma,SKILLED NURSING FACILITY,1
+CLINIC REFERRAL,Vascular,1
+Medicine/Cardiology,Medical Intensive Care Unit (MICU),1
+Medical Intensive Care Unit (MICU),Medicine/Cardiology,1
+PROCEDURE SITE,Observation,1
+Observation,Surgical Intensive Care Unit (SICU),1
+Medical Intensive Care Unit (MICU),SKILLED NURSING FACILITY,1
+Surgical Intensive Care Unit (SICU),SKILLED NURSING FACILITY,1
+Surgical Intensive Care Unit (SICU),Med/Surg/Trauma,1
+Med/Surg/Trauma,Emergency Department Observation,1
+Emergency Department Observation,Trauma SICU (TSICU),1
+Trauma SICU (TSICU),PACU,1
+Med/Surg/Trauma,Coronary Care Unit (CCU),1
+Discharge Lounge,Med/Surg/Trauma,1
+Med/Surg/Trauma,Trauma SICU (TSICU),1
+PACU,Neuro Stepdown,1
+Neuro Stepdown,Trauma SICU (TSICU),1
+Trauma SICU (TSICU),Neuro Stepdown,1
+Emergency Department,Unknown,1
+Unknown,PACU,1
+Trauma SICU (TSICU),Neurology,1
+PHYSICIAN REFERRAL,Emergency Department,1
+Hematology/Oncology,PACU,1
+Discharge Lounge,Med/Surg/GYN,1
+Cardiac Surgery,HOME,1
+PHYSICIAN REFERRAL,Cardiac Surgery,1
+Cardiac Surgery,Medicine/Cardiology,1
+Hematology/Oncology,HOSPICE,1
+Neuro Surgical Intensive Care Unit (Neuro SICU),Neuro Stepdown,1
+Discharge Lounge,Neuro Intermediate,1
+Neuro Intermediate,HOME,1
+Trauma SICU (TSICU),Medicine/Cardiology Intermediate,1
+Medicine/Cardiology Intermediate,SKILLED NURSING FACILITY,1
+PACU,Observation,1
+Medical Intensive Care Unit (MICU),Neurology,1
+Neurology,Medicine,1
+Med/Surg,SKILLED NURSING FACILITY,1
+CLINIC REFERRAL,Medicine,1
+Hematology/Oncology,ACUTE HOSPITAL,1
+Discharge Lounge,Transplant,1
+PROCEDURE SITE,Transplant,1
+CLINIC REFERRAL,Transplant,1
+Neurology,CHRONIC/LONG TERM ACUTE CARE,1
+Medical Intensive Care Unit (MICU),HOME,1
+Surgical Intensive Care Unit (SICU),PACU,1
+Medical Intensive Care Unit (MICU),Coronary Care Unit (CCU),1
+Medicine/Cardiology,DIED,1
+Cardiac Vascular Intensive Care Unit (CVICU),Coronary Care Unit (CCU),1
+Medical/Surgical Intensive Care Unit (MICU/SICU),HOME,1
+Neurology,PACU,1
+PACU,Surgical Intensive Care Unit (SICU),1
+Surgical Intensive Care Unit (SICU),DIED,1
+Med/Surg,Surgical Intensive Care Unit (SICU),1
+Medicine,DIED,1
+Medical Intensive Care Unit (MICU),AGAINST ADVICE,1
+Medicine/Cardiology,Med/Surg,1
+Coronary Care Unit (CCU),Cardiac Surgery,1
+Coronary Care Unit (CCU),Vascular,1
+CLINIC REFERRAL,Surgical Intensive Care Unit (SICU),1
+Medical/Surgical Intensive Care Unit (MICU/SICU),HOSPICE,1
+Med/Surg,Hematology/Oncology,1
+Hematology/Oncology,CHRONIC/LONG TERM ACUTE CARE,1
+Hematology/Oncology,Medical/Surgical Intensive Care Unit (MICU/SICU),1
+Hematology/Oncology,DIED,1
+PACU,Medicine,1
+Neuro Surgical Intensive Care Unit (Neuro SICU),DIED,1
+Discharge Lounge,Medical/Surgical Intensive Care Unit (MICU/SICU),1
+Med/Surg/GYN,HOME HEALTH CARE,1
+Neurology,Surgery/Trauma,1
+Surgery/Trauma,HOME,1
+TRANSFER FROM HOSPITAL,Transplant,1
+Medicine,AGAINST ADVICE,1
+Trauma SICU (TSICU),Medicine,1
+Medicine/Cardiology,REHAB,1
+Emergency Department Observation,Medicine,1
+PHYSICIAN REFERRAL,Vascular,1
+Med/Surg,Discharge Lounge,1
+Vascular,Surgical Intensive Care Unit (SICU),1
+Surgical Intensive Care Unit (SICU),Vascular,1
+Vascular,HOSPICE,1
