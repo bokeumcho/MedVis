@@ -9,7 +9,7 @@ import pandas_gbq
 
 def load_with_bigquery(query):
     # Path to your service account key file
-    key_path = 'autonomous-gist-424810-j8-e0defe13106a.json'
+    key_path = 'autonomous-gist-424810-j8-7e79a590be48.json'
 
     # Set up authentication using the service account key file
     credentials = service_account.Credentials.from_service_account_file(key_path)
